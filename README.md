@@ -128,6 +128,3 @@ Built with ❤️ by **Swarupa Balaji**
 > *"Early detection saves lives — Deep Learning makes it faster."*
 
 ---
-
-```
-```
